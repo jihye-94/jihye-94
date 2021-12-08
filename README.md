@@ -45,6 +45,79 @@ Here are some ideas to get you started:
 
 ---
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 467 Contributions in the Year 2021
+ > 
+> 📦 69.7 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 4 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.24% 
+🌆 Daytime    92 commits     █████░░░░░░░░░░░░░░░░░░░░   22.01% 
+🌃 Evening    158 commits    █████████░░░░░░░░░░░░░░░░   37.8% 
+🌙 Night      121 commits    ███████░░░░░░░░░░░░░░░░░░   28.95%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       68 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.27% 
+Tuesday      70 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.75% 
+Wednesday    70 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.75% 
+Thursday     58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.88% 
+Friday       43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.29% 
+Saturday     65 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.55% 
+Sunday       44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.53%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     10 repos            █████████████████░░░░░░░░   71.43% 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/jihye-94/jihye-94/main/charts/bar_graph.png) 
+
+
+ Last Updated on 08/12/2021
+<!--END_SECTION:waka-->
 START_SECTION:waka
 END_SECTION:waka
